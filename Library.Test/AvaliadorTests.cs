@@ -1,7 +1,7 @@
 namespace Leilao.Test
 {
     [TestClass]
-    public class AvaliadorTests
+    public class AvaliadorTest
     {
         [TestMethod]
         public void TestAvaliarLances_DeveAtualizarMaiorEMenorLance()
