@@ -14,7 +14,7 @@
             }
         }
 
-        private void AtualizaMenorLance(Lance lance)
+        internal void AtualizaMenorLance(Lance lance)
         {
             if (lance.Valor < MenorLance)
             {
@@ -22,7 +22,7 @@
             }
         }
 
-        private void AtualizaMaiorLance(Lance lance)
+        internal void AtualizaMaiorLance(Lance lance)
         {
             if (lance.Valor > MaiorLance)
             {
