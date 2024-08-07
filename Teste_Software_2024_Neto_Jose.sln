@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35122.118
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leilao", "Teste_Software_2024_Neto_Jose\Leilao.csproj", "{DAFA5C6A-A517-44B3-8AB2-2F82030CCD89}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leilao.Library", "Teste_Software_2024_Neto_Jose\Leilao.Library.csproj", "{DAFA5C6A-A517-44B3-8AB2-2F82030CCD89}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Leilao.Test", "Library.Test\Leilao.Test.csproj", "{E9E1515F-D2F3-4359-9C49-41FE02DF8C51}"
 EndProject

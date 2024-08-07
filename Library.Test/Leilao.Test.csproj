@@ -17,7 +17,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Teste_Software_2024_Neto_Jose\Leilao.csproj" />
+    <ProjectReference Include="..\Teste_Software_2024_Neto_Jose\Leilao.Library.csproj" />
   </ItemGroup>
 
   <ItemGroup>
